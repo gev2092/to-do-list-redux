@@ -1,0 +1,29 @@
+.content {
+  margin: 24px 16px 0;
+}
+
+.container {
+  padding: 24px;
+  background-color: #ffffff;
+  min-height: 400px;
+}
+
+.margin-5 {
+  margin: 5px;
+}
+
+.padding-5 {
+  padding: 5px;
+}
+
+.colored-green {
+  color: #006400;
+}
+
+.colored-red {
+  color: #ff0000;
+}
+
+.colored-orange {
+  color: #FF780E;
+}
